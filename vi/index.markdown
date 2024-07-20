@@ -9,11 +9,11 @@ header:
   overlay_image:  /assets/img/splash/splash.jpg
   actions:
     - label: "Khoá học"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "#"
     - label: "Hệ thống thực hành"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "#"
     - label: "Đọc sách trên mây"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "#"
 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Nắm bắt các công nghệ mới với **DevWithJohn**.<br> Ở đây có các khóa học chất lượng, hệ thống thực hành, và tài nguyên học tập."
