@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps 101"
 date:   2024-04-29 00:53:00 +0700
-categories: jekyll update
+layout: default
 ---
 # Giới thiệu 
 Khóa học DevOps được thiết kế nhằm cung cấp cho học viên những kiến thức và kỹ năng cần thiết để áp dụng các nguyên tắc DevOps trong quá trình phát triển phần mềm và quản lý hệ thống. DevOps, sự kết hợp giữa Development (Phát triển) và Operations (Vận hành), tập trung vào việc cải thiện sự hợp tác giữa các đội phát triển phần mềm và đội vận hành để tăng cường hiệu suất, chất lượng và tốc độ triển khai phần mềm.
