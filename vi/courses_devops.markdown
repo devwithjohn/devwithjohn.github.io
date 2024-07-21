@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOps 101"
+title:  "Khóa học DevOps 101"
 date:   2024-04-29 00:53:00 +0700
 layout: single
 ---
