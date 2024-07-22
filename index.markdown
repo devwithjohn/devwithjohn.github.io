@@ -9,7 +9,7 @@ header:
   overlay_image:  /assets/img/splash/splash.jpg
   actions:
     - label: "Khoá học"
-      url: "#"
+      url: "/courses"
     - label: "Hệ thống thực hành"
       url: "#"
     - label: "Đọc sách trên mây"

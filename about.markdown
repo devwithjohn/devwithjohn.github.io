@@ -1,17 +1,8 @@
 ---
-layout: single
 classes: wide
-title: Xin chào 👋, tôi là DUONG BUI 👨‍💻
+title: Xin chào 👋, tôi là Dương 👨‍💻
 
 ---
-<p align="right">
-Truy cập &nbsp;
-<a href="https://github.com/buivd4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="buivd4" height="20" width="25" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/buivd4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buivd4" height="18" width="20" /></a>
-&nbsp;
-để kết nối với tôi 🫡
-</p>
 
 ## Tại sao có website này?
 Dựa trên kinh nghiệp tham gia ở đội ngũ phát triển của các dự án về IoT toàn cầu, điện toán đám mây và bảo mật dữ liệu, tôi mong muốn được cung cấp kỹ năng cần thiết cho những ai quan tâm lĩnh vực **Cloud**, **DevSecOps** và **Backend Development**. 
