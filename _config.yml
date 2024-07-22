@@ -71,17 +71,25 @@ minimal_mistakes_skin: mint
 #   - vendor/ruby/
 
 defaults:
-- scope:
-    path: vi
-    type: pages
-  values:
-    permalink: /vi/:basename.html
-    language: vi
-    redirect_from:
-    - /
-- scope:
-    path: en
-    type: pages
-  values:
-    permalink: /en/:basename.html
-    language: en
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "single"
+      author_profile: true
+
+
+author:
+  name: "Dương"
+  avatar: "/assets/img/bio-photo.jpg"
+  bio: ">Tầm nhìn ta thật ngắn mà đã thấy bao thứ để làm — Alan Turing"
+  links:
+    - label: "DevWithJohn"
+      icon: "fas fa-fw fa-link"
+      url: "https://devwithjohn.online"
+    - label: "buivd4"
+      icon: "fab fa-linkedin-in"
+      url: "https://linked.in/in/buivd4"
+    - label: "buivd4"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/buivd4"

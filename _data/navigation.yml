@@ -1,15 +1,7 @@
 main:
-  - title: "Products"
-    url: /en/
-    language: "en"
-  - title: "About"
-    url: /en/about
-    language: "en"
   - title: "Về tôi"
-    url: /vi/about
-    language: "vi"
+    url: /about
   - title: "Sản phẩm"
-    language: "vi"
     sublinks:
       - title: Các khoá học
         url: /courses/
@@ -17,8 +9,5 @@ main:
         url: /aws-hand-on-labs/
       - title: Đọc sách trên mây
         url: /x-plat-book-reader/
-
   - title: "Kiến thức"
-    url: /vi/knowledge
-    language: "vi"
-
+    url: /knowledge
