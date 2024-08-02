@@ -33,12 +33,12 @@ Sinh viên ngành công nghệ thông tin muốn chuẩn bị cho sự nghiệp 
 3. [Hướng dẫn tạo máy ảo Ubuntu trên VirtualBox](./module-0/run-ubuntu-with-osboxes.html)
 
 ### Module 1: Làm quen với Linux
-* [Tài liệu tham khảo](./module-1/00-references.markdown)
-* [Hệ điều hành là gì?](./module-1/01-what-is-an-operating-system.markdown)
-* [Kiến trúc hệ điều hành Linux](./module-1/02-linux-architecture.markdown)
-* [Quản lý truy cập và xác thực trong HĐH Linux](./module-1/03-linux-authentication-and-authorization.markdown)
-* [Giới thiệu về hệ thống thư mục trong Linux](./module-1/04-linux-file-system.markdown)
-* [Shell là gì?](./module-1/05-what-is-a-shell.markdown)
+* [Tài liệu tham khảo](./module-1/00-references.html)
+* [Hệ điều hành là gì?](./module-1/01-what-is-an-operating-system.html)
+* [Kiến trúc hệ điều hành Linux](./module-1/02-linux-architecture.html)
+* [Quản lý truy cập và xác thực trong HĐH Linux](./module-1/03-linux-authentication-and-authorization.html)
+* [Giới thiệu về hệ thống thư mục trong Linux](./module-1/04-linux-file-system.html)
+* [Shell là gì?](./module-1/05-what-is-a-shell.html)
 
 ### Module 2: Mạng máy tính
 * Tìm hiểu về mô hình OSI và mô hình TCP/IP
